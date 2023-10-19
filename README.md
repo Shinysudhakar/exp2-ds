@@ -104,4 +104,15 @@ def d_o(val):
   op 
 
 OUTPUT:
-  
+
+
+  ![1](https://github.com/Shinysudhakar/exp2-ds/assets/127575325/45af8f2a-efe9-4ad0-bd44-ab6640d5e050)
+
+
+![2](https://github.com/Shinysudhakar/exp2-ds/assets/127575325/95ca7667-6601-4e5e-8e8c-536f29556cb5)
+
+![3](https://github.com/Shinysudhakar/exp2-ds/assets/127575325/b6e5c8fc-7673-4c47-ac25-2581eddd45ac)
+
+![4](https://github.com/Shinysudhakar/exp2-ds/assets/127575325/d5c127b9-ba7b-45d1-b69f-a2a8d4114b06)
+
+
